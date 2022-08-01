@@ -61,3 +61,12 @@ main .button {
   background-color: navy;
   color: white;
 }
+
+footer div {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 100vh;
+  padding: 30px;
+  background-color: lightyellow;
+}
