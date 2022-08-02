@@ -3,7 +3,6 @@
   padding: 0;
   box-sizing: border-box;
   font-family: impact;
-  color: navy;
   text-align: center;
   font-size: 40px;
 }
@@ -60,6 +59,9 @@ main .button {
   padding: 20px 120px;
   background-color: navy;
   color: white;
+}
+main #dad {
+  color: cornflowerblue;
 }
 
 footer div {
